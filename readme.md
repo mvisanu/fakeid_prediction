@@ -14,7 +14,7 @@ Machine Learning -  ID Card Detection
 
 
 
-Steps to run application:
+Steps to run Flask API application:
 
 Step 1:	Create the copy of the project.
 
