@@ -1,4 +1,20 @@
-Step to run application:
+Machine Learning -  ID Card Detection
+
+1. Get images from user
+2. Check for size and format the image
+3. Change shape and size of image according to the original image
+4. Convert the image to grayscale
+5. Find the similarity index of images
+6. find the threshold of the image
+7. Find contour and grap those ocontour using Imutils
+8. Draw a bounding rectangle using these contours.
+9. Plot difference, threshold, original and tampered image
+10. Compare all the images and check the similarity score to deside tampering
+
+
+
+
+Steps to run application:
 
 Step 1:	Create the copy of the project.
 
